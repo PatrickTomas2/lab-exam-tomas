@@ -14,4 +14,4 @@ Name: PATRICK JOHN S. TOMAS
 6. php artisan serve
 7. Open http://127.0.0.1:8000
 
-Test accounts: user1@example.com and user2@example.com (password: password)
+Test accounts: userone@example.com and usertwo@example.com (password: password)
